@@ -2,7 +2,7 @@
 
 #### _Based on users selections will display pizza's price_
 
-#### By _**Noah Gottlieb**_
+#### By Mozammil Ashraf
 
 ## Description
 
