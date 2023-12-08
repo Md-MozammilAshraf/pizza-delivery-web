@@ -37,8 +37,11 @@ _nogpdx@gmail.com_
 _HTML, CSS, Bootstrap, javascript, jquery_
 
 ## Screen Shot
+<img width="1249" alt="Screenshot 2023-12-08 at 6 57 55 PM" src="https://github.com/Md-MozammilAshraf/pizza-delivery-web/assets/127433098/a24fdd5e-7cd1-4f60-8d4b-e6f774f5ded4">
 
-![Screen Shot](https://github.com/ngottlieb87/pizzaDelivery/blob/master/img/screenShotPizza.png)
+![Screen Shot]<img width="1249" alt="Screenshot 2023-12-08 at 6 57 55 PM" src="https://github.com/Md-MozammilAshraf/pizza-delivery-web/assets/127433098/1d5addb3-32c7-42d9-bc8e-64953555b92c">
+(https://github.com/ngottlieb87/pizzaDelivery/blob/master/img/screenShotPizza.png)
+
 
 ### License
 
