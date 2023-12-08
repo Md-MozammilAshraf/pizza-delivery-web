@@ -43,6 +43,4 @@ _HTML, CSS, Bootstrap, javascript, jquery_
 (https://github.com/ngottlieb87/pizzaDelivery/blob/master/img/screenShotPizza.png)
 
 
-### License
 
-Copyright (c) 2017 **_Noah Gottlieb_**
